@@ -2,7 +2,7 @@
 
 ## Lab environment
 - https://lms.godeploy.it/
-- Access key: T1KZWR
+- Don't forget to enable Enhanced mode after starting the lab (HOME tab, Tools).
 
 Make sure you complete all lab exercises before taking the exam.
 
